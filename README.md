@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marvin Beckmann</h1>
 <h3 align="center">DevOps Engineer with <3 for Linux, Container, Orchestrators and IaC</h3>
 💫 About Me:
-🔭 I’m currently working on kubenary<br><br>🌱 I’m currently learning JS and Rust<br><br>👯 I’m looking to collaborate on linux, IaC, k8s, Docker and everything else<br><br>📝 I regularly write articles on bckmn.dev<br><br>💬 Ask me about Docker and Kubernetes<br><br>📫 How to reach me marvin@bckmn.dev<br><br>📄 Know about my experiences bckmn.dev/exp
+🔭 I’m currently working on kubenary<br><br>🌱 I’m currently learning GoLang and JS<br><br>👯 I’m looking to collaborate on linux, IaC, k8s, Docker and everything else<br><br>📝 I regularly write articles on bckmn.dev<br><br>💬 Ask me about Docker and Kubernetes<br><br>📫 How to reach me marvin@bckmn.dev<br><br>📄 Know about my experiences bckmn.dev/exp
 
 
 ## 🌐 Socials:
